@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Askrr
 
-- 🌱 I’m currently getting my BS in CS 
-- 💞️ I’m looking to collaborate on data analysis projects!
-- 📫 How to reach me [hammaresvinga@gmail.com]
+
+- 🌱 Current student at SNHU (2024 graduate) in Computer Science and Data Analysis
+- 📫 How to reach me: [benjamin.leanna@snhu.edu]
+
 
 <!---
 Askrr/Askrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
